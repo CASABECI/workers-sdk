@@ -34,7 +34,7 @@
 		"@changesets/parse": "^0.4.0",
 		"@cloudflare/workers-types": "^4.20250617.0",
 		"@ianvs/prettier-plugin-sort-imports": "4.2.1",
-		"@manypkg/cli": "^0.23.0",
+		"@manypkg/cli": "^0.24.0",
 		"@types/node": "catalog:default",
 		"@vue/compiler-sfc": "^3.3.4",
 		"cross-env": "^7.0.3",
