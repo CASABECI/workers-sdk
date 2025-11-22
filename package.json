@@ -28,9 +28,9 @@
 		"type:tests": "dotenv -- turbo type:tests"
 	},
 	"dependencies": {
-		"@actions/artifact": "^2.2.1",
+		"@actions/artifact": "^2.2.2",
 		"@changesets/changelog-github": "^0.5.0",
-		"@changesets/cli": "^2.28.0",
+		"@changesets/cli": "^2.29.6",
 		"@changesets/parse": "^0.4.0",
 		"@cloudflare/workers-types": "^4.20250617.0",
 		"@ianvs/prettier-plugin-sort-imports": "4.2.1",
@@ -43,11 +43,11 @@
 		"esbuild-register": "^3.5.0",
 		"jsonc-parser": "^3.2.0",
 		"prettier": "^3.2.5",
-		"prettier-plugin-packagejson": "^2.2.18",
+		"prettier-plugin-packagejson": "^2.4.0",
 		"tree-kill": "^1.2.2",
 		"turbo": "^2.2.3",
 		"typescript": "catalog:default",
-		"vite": "catalog:default",
+		"vite": "5.4.20",
 		"vitest": "catalog:default"
 	},
 	"packageManager": "pnpm@9.12.0",
